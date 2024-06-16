@@ -2,7 +2,7 @@
 
 This app will allow users to generate engaging and professional LinkedIn posts with the help of the Phi 3 model. The UI will feature input fields and options for users to provide the necessary context and preferences for their desired post.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ### User Input
 
